@@ -1,0 +1,19 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.daveyx.ga"
+  },
+  "author": "daveyx",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "strftime": "^0.10.0"
+  }
+}

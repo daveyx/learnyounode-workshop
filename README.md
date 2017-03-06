@@ -8,7 +8,7 @@
     ------------------------------------------------------------------------
 
 #learnyounode workshop#
-My solutions for the learnyounode challenges during the free code camp program
+My solutions for the learnyounode challenges during the free code camp program...
 
 #related links#
 http://www.freecodecamp.com/

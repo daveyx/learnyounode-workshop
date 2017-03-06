@@ -8,12 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "www.daveyx.ga"
+    "url": "https://github.com/daveyx/learnyounode-workshop"
   },
   "author": "daveyx",
   "license": "ISC",
   "dependencies": {
     "bl": "^1.2.0",
-    "strftime": "^0.10.0"
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
   }
 }

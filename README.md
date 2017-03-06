@@ -7,4 +7,15 @@
     (________/  (___/    \___)     \__/      \_______) |___/      |___/\___| 
     ------------------------------------------------------------------------
 
-learnyounode workshop
+#learnyounode workshop#
+My solutions for the learnyounode challenges during the free code camp program
+
+#install#
+1. git clone
+2. 
+3. 
+
+#related links#
+http://www.freecodecamp.com/
+
+https://nodeschool.io/
